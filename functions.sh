@@ -101,7 +101,7 @@ adl_brya=('anahera' 'banshee' 'crota' 'crota360' 'dochi' 'felwinter' 'gimble' 'k
          'vell' 'volmar' 'xol' 'zavala')
 adl_brask=('aurash' 'bujia' 'gladios' 'kinox' 'kuldax' 'lisbon' 'moli')
 adl=($(printf "%s " "${adl_brya[@]}" "${adl_brask[@]}"))
-adl_2=('aurash' 'banshee' 'constitution' 'gimble' 'gladios' 'intrepid' 'kinox' 'kuldax' 'lisbon' 'marasov' 'moli' 'omnigul' 'redrix')
+adl_2=('aurash' 'banshee' 'constitution' 'gimble' 'gladios' 'intrepid' 'kinox' 'kuldax' 'lisbon' 'marasov' 'moli' 'omnigul' 'redrix' 'osiris')
 adl_n=('anraggar' 'anraggar360' 'craask' 'craaskana' 'craaskbowl' 'craaskino' 'craaskov' 'craaskvin' \
        'craasneto' 'craaswell' 'domika' 'domilly' 'domiso' 'gallida360' 'gana' 'glassway' 'gothrax' \
        'gothraxcs' 'guren' 'hideo' 'joxer' 'pujjo' 'pujjo1e' 'pujjoflex' 'pujjoga' 'pujjogatwin' \
